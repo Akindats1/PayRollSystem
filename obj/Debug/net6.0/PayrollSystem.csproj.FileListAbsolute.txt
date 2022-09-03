@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\PayrollSystem\bin\Debug\net6.0\PayrollSystem.exe
+C:\Users\user\source\repos\PayrollSystem\bin\Debug\net6.0\PayrollSystem.dll
+C:\Users\user\source\repos\PayrollSystem\obj\Debug\net6.0\PayrollSystem.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\PayrollSystem\obj\Debug\net6.0\PayrollSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\PayrollSystem\obj\Debug\net6.0\PayrollSystem.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\PayrollSystem\obj\Debug\net6.0\PayrollSystem.AssemblyInfo.cs
+C:\Users\user\source\repos\PayrollSystem\obj\Debug\net6.0\PayrollSystem.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PayrollSystem\obj\Debug\net6.0\PayrollSystem.dll
+C:\Users\user\source\repos\PayrollSystem\obj\Debug\net6.0\refint\PayrollSystem.dll
+C:\Users\user\source\repos\PayrollSystem\obj\Debug\net6.0\PayrollSystem.pdb
+C:\Users\user\source\repos\PayrollSystem\bin\Debug\net6.0\PayrollSystem.deps.json
+C:\Users\user\source\repos\PayrollSystem\bin\Debug\net6.0\PayrollSystem.runtimeconfig.json
+C:\Users\user\source\repos\PayrollSystem\bin\Debug\net6.0\PayrollSystem.pdb
+C:\Users\user\source\repos\PayrollSystem\obj\Debug\net6.0\PayrollSystem.genruntimeconfig.cache
+C:\Users\user\source\repos\PayrollSystem\obj\Debug\net6.0\ref\PayrollSystem.dll
